@@ -2410,14 +2410,53 @@ nav.opened .hamburger span {
 .cid-rURc6gjomM .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rURs6A58Qd {
+.cid-rUVdyr9wbZ {
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
 }
-.cid-rURs6A58Qd .mbr-section {
-  text-align: center;
-  color: #fff;
+.cid-rUVdyr9wbZ .image-block {
+  margin: auto;
+}
+.cid-rUVdyr9wbZ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rUVdyr9wbZ figcaption {
+  position: relative;
+}
+.cid-rUVdyr9wbZ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rUVdyr9wbZ .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rUVe5TLF1Q {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rUVe5TLF1Q .image-block {
+  margin: auto;
+}
+.cid-rUVe5TLF1Q .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rUVe5TLF1Q figcaption {
+  position: relative;
+}
+.cid-rUVe5TLF1Q figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rUVe5TLF1Q .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rURc6gjomM .navbar {
   padding: .5rem 0;
@@ -2827,51 +2866,12 @@ nav.opened .hamburger span {
 .cid-rURc6gjomM .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rUVdyr9wbZ {
-  background: #ffffff;
+.cid-rURs6A58Qd {
   padding-top: 60px;
   padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rUVdyr9wbZ .image-block {
-  margin: auto;
-}
-.cid-rUVdyr9wbZ .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rUVdyr9wbZ figcaption {
-  position: relative;
-}
-.cid-rUVdyr9wbZ figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rUVdyr9wbZ .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rUVe5TLF1Q {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rUVe5TLF1Q .image-block {
-  margin: auto;
-}
-.cid-rUVe5TLF1Q .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rUVe5TLF1Q figcaption {
-  position: relative;
-}
-.cid-rUVe5TLF1Q figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rUVe5TLF1Q .image-block {
-    width: 100% !important;
-  }
+.cid-rURs6A58Qd .mbr-section {
+  text-align: center;
+  color: #fff;
 }
