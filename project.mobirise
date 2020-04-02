@@ -1890,10 +1890,10 @@
         }
       ]
     },
-    "page4.html": {
+    "HealthandSafety.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "Page 4",
+        "meta_descr": "Find health and Coronavirus Safety",
+        "title": "Health and Safety",
         "order": 1
       },
       "components": [
