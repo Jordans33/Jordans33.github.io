@@ -1127,6 +1127,15 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #fff;
 }
+.cid-rV3GdwE8wl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rV3GdwE8wl .mbr-section {
+  text-align: center;
+  color: #fff;
+}
 @primaryColor: #149dcc;
 @secondaryColor: #ff3366;
 @successColor: #F7ED4A;
