@@ -2009,14 +2009,17 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rVpW3DyEXw {
+.cid-rVpXteAFQG {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rVpW3DyEXw .mbr-section {
+.cid-rVpXteAFQG .mbr-section {
   text-align: center;
   color: #fff;
+}
+.cid-rVpXteAFQG .block-title {
+  color: #ffffff;
 }
 .cid-rURc6gjomM .navbar {
   padding: .5rem 0;
