@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "coronavirus",
-    "currentPage": "HealthandSafety.html",
+    "currentPage": "CoronaVirus News.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-162418797-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-162418797-1');\n</script>"
@@ -1993,9 +1993,9 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n<rssapp-wall id=\"YSsxjCrd2FR7o4TL\"></rssapp-wall><script src=\"https://widget.rss.app/v1/wall.js\" type=\"text/javascript\" async></script>\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\">custom-html</h2>\n\t\t\t\t<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/deltapi-1.png\" alt title>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rURs6A58Qd",
-          "_anchor": "custom-html-p",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n<rssapp-wall id=\"hVq0vvpsRsLPd7EI\"></rssapp-wall><script src=\"https://widget.rss.app/v1/wall.js\" type=\"text/javascript\" async></script>\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\">custom-html</h2>\n\t\t\t\t<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/deltapi-14.png\" alt title>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rVBVSM7MJP",
+          "_anchor": "custom-html-1m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
