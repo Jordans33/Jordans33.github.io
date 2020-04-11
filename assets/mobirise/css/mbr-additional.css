@@ -1985,14 +1985,17 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rVOmgr1uIH {
+.cid-rVOngc4XCH {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rVOmgr1uIH .mbr-section {
+.cid-rVOngc4XCH .mbr-section {
   text-align: center;
   color: #fff;
+}
+.cid-rVOngc4XCH .block-title {
+  color: #ffffff;
 }
 .cid-rUVe5TLF1Q {
   background: #ffffff;
@@ -2017,27 +2020,6 @@ section.lazy-placeholder:after {
   .cid-rUVe5TLF1Q .image-block {
     width: 100% !important;
   }
-}
-.cid-rVOlBqukjQ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rVOlBqukjQ .mbr-section {
-  text-align: center;
-  color: #fff;
-}
-.cid-rVpXteAFQG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rVpXteAFQG .mbr-section {
-  text-align: center;
-  color: #fff;
-}
-.cid-rVpXteAFQG .block-title {
-  color: #ffffff;
 }
 .cid-rURc6gjomM .navbar {
   padding: .5rem 0;
