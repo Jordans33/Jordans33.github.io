@@ -1985,6 +1985,15 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rVOmgr1uIH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rVOmgr1uIH .mbr-section {
+  text-align: center;
+  color: #fff;
+}
 .cid-rUVe5TLF1Q {
   background: #ffffff;
   padding-top: 60px;
@@ -3271,13 +3280,4 @@ section.lazy-placeholder:after {
 .cid-rURc6gjomM .nav-link:hover,
 .cid-rURc6gjomM .dropdown-item:hover {
   color: #e14242 !important;
-}
-.cid-rVOksSFl8w {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rVOksSFl8w .mbr-section {
-  text-align: center;
-  color: #fff;
 }
